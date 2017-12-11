@@ -1,0 +1,76 @@
+body{
+	background-image: url("https://uccexpress.ie/wp-content/uploads/2017/10/gnhd9nzetuxy.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Roboto, Arial, sans-serif;
+}
+
+h1{
+	color: #FFFFFF;
+    text-shadow: 2px 2px #000000;
+	font-size: 40px;
+	float: right;
+
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+}
+
+h3{
+	text-align: center;
+}
+
+p{
+text-align: center;
+margin: 15px 15px 15px 15px;
+font-size: 15px;
+}
+
+.logo{
+	display: block;
+	margin: auto;
+}
+
+table{
+	width: 100%;
+	 border: 1px solid black;
+}
+
+th {
+	border: 1px solid black;
+}
+
+a{
+	color: black;
+	
+}
+
+a:hover{
+	color: green;
+}
+
+.middle{
+	background-color: #FFFFFF;
+	margin: auto;
+	width: 800px; 	
+}
+
+.header{
+	width: 100%;
+	background-image: url("https://www.rebgaming.com/wp-content/uploads/2015/11/Tom-ClaNCYs-rainbow-six.png");
+}
+
+.links{
+	width: 100%;
+}
+
+.maincontent{
+	width: 100%;
+}
+
+.footer{
+	width:100%;
+}
